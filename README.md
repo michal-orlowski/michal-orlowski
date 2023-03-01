@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, HTML, CSS
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on non-profit projects
-- 📫 How to reach me ...
+- 📫 How to reach me ? By mail morlowsk@gmail.com
 
 <!---
 michal-orlowski/michal-orlowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
